@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvinh\\OneDrive\\Desktop\\systempark\\SystemPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE7901B-D3F8-4641-8E39-0BAB5BE0365C}|SystemPark.csproj|c:\\users\\lvinh\\onedrive\\desktop\\systempark\\systempark\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE7901B-D3F8-4641-8E39-0BAB5BE0365C}|SystemPark.csproj|solutionrelative:entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\lvinh\\OneDrive\\Desktop\\systempark\\SystemPark\\Entities\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Entities\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\lvinh\\OneDrive\\Desktop\\systempark\\SystemPark\\Entities\\Veiculo.cs",
+              "RelativeToolTip": "Entities\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:39:07.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
